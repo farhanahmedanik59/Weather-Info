@@ -34,3 +34,14 @@ body{
   color: white;
   border-radius: 20px;
 }
+
+.navbar input:hover{
+  background-color: var(--items-background);
+}
+.navbar input:focus{
+  outline: none;
+}
+.forecast{
+  border: 1px solid black;
+  padding: 10px;
+}
